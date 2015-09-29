@@ -1,3 +1,4 @@
+#################
 Chef Provisioning
 ==========
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/chef/chef-provisioning?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
